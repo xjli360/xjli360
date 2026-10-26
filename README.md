@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Bruce Jay — From AI research to real-world agents. AI research, Agent systems and global commerce." />
+  <img src="assets/profile-banner.png" width="100%" alt="Bruce Jay — Building with Agents. 简约金属与玻璃 3D 封面，AI / Global Commerce。" />
 </p>
 
 <p align="center">
@@ -11,6 +11,8 @@
 ## 你好，我是 Bruce Jay
 
 **清华大学人工智能硕士 · AI 研究者 · 跨境电商创业者 · 亚马逊广告卖家讲师**
+
+> **用 Agent 经营跨境电商：半年营收 100 万美元，利润率 20%。**
 
 我关注多模态生成与 Agent 系统，也在自营跨境业务和企业项目中检验这些方法。正在通过 **质递归科技、Swanyo 与 SeaLeap**，把算法研究、产品工程与一线经营连接起来。
 
@@ -45,15 +47,13 @@
   </tr>
 </table>
 
-## 开源与研究 / Selected work
+## 开源项目 / Open source
 
 | 项目 | 我在探索的方向 |
 | :--- | :--- |
 | **[SeaLeap Amazon Skills](https://github.com/xjli360/sealeap-amazon-skills)** | 将亚马逊选品、Listing、广告、库存与经营知识，整理为可复用的 Agent 工作流。 |
 | **[SeaLeap eCommerce Skills](https://github.com/xjli360/sealeap-ecommerce-skills)** | 覆盖 Shopify、Etsy、eBay、TikTok Shop、Walmart、Mercado Libre、OZON 与 Wayfair 的运营实践。 |
 | **[eCommerce Design Systems](https://github.com/xjli360/awesome-design-md-ecommerce)** | 为 AI 构建电商网站提供品牌与界面设计参考，让视觉语言可以被理解和复用。 |
-| **[SoulDance](https://github.com/xjli360/SoulDance-Official)** · ICCV 2025 | 音乐对齐的整体 3D 舞蹈生成，探索身体、手部与面部动作的协调建模。[论文 ↗](https://arxiv.org/abs/2507.14915) |
-| **[VisCtrl](https://github.com/xjli360/VisCtrl)** | 通过迭代式自注意力控制，实现无需额外训练的视觉定制。[论文 ↗](https://arxiv.org/abs/2406.06258) |
 
 <br>
 
