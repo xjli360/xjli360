@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="364" viewBox="0 0 1200 364" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Bruce Jay — AI Research, Agents and Commerce</title>
+  <desc id="desc">From AI research to real-world agents. Research, build, validate and share.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="364" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111D1B"/>
+      <stop offset="1" stop-color="#182B27"/>
+    </linearGradient>
+    <linearGradient id="line" x1="800" y1="72" x2="1080" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BBE5D4"/>
+      <stop offset="1" stop-color="#426A5D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="364" rx="20" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="1199" height="363" rx="19.5" stroke="#294139"/>
+  <path d="M752 32V332M64 300H1136" stroke="#355047" stroke-opacity=".65"/>
+  <circle cx="70" cy="55" r="5" fill="#B9E5CD"/>
+  <text x="86" y="61" fill="#C5DAD2" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">RESEARCHER / BUILDER / EDUCATOR</text>
+  <text x="60" y="162" fill="#F1F5EF" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700" letter-spacing="-4">Bruce Jay</text>
+  <text x="64" y="217" fill="#C6D8D1" font-family="Arial, Helvetica, sans-serif" font-size="29" letter-spacing="-.5">From AI research to real-world agents.</text>
+  <text x="65" y="265" fill="#94B8A8" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1">AI AGENTS  /  MULTIMODAL  /  GLOBAL COMMERCE</text>
+  <text x="64" y="336" fill="#799C8D" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.2">TSINGHUA UNIVERSITY</text>
+  <text x="1136" y="336" fill="#A3C7B7" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.2">SWANYO + SEALEAP</text>
+  <text x="805" y="64" fill="#87AD9C" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.5">A CONTINUOUS PRACTICE</text>
+  <path d="M823 109V238H1101V109H823" stroke="url(#line)" stroke-width="1.5"/>
+  <path d="M1101 238V109H1079" stroke="#87BBA3" stroke-width="1.5"/>
+  <path d="M1086 103L1079 109L1086 115" stroke="#87BBA3" stroke-width="1.5"/>
+  <circle cx="823" cy="109" r="6" fill="#B9E5CD"/>
+  <circle cx="823" cy="174" r="6" fill="#B9E5CD"/>
+  <circle cx="823" cy="238" r="6" fill="#B9E5CD"/>
+  <rect x="849" y="87" width="211" height="44" rx="8" fill="#20392F"/>
+  <rect x="849" y="152" width="211" height="44" rx="8" fill="#20392F"/>
+  <rect x="849" y="216" width="211" height="44" rx="8" fill="#20392F"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#E0EEE5">
+    <text x="866" y="115">01</text><text x="907" y="115">Research</text>
+    <text x="866" y="180">02</text><text x="907" y="180">Build</text>
+    <text x="866" y="244">03</text><text x="907" y="244">Validate</text>
+  </g>
+</svg>
